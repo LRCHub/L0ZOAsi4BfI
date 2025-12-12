@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "心臓と絡繰",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-12T13:05:33.008374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心臓と絡繰",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_心臓と絡繰_花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心臓と絡繰",
+      "artist": "Kaf",
+      "has_synced": true,
+      "path": "select/02_心臓と絡繰_Kaf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心臓と絡繰",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/03_心臓と絡繰_花譜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心臓と絡繰 (春野 Remix)",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/04_心臓と絡繰_(春野_Remix)_花譜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心臓と絡繰 (春野 Remix)",
+      "artist": "Kaf",
+      "has_synced": false,
+      "path": "select/05_心臓と絡繰_(春野_Remix)_Kaf.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心臓と絡繰",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/06_心臓と絡繰_花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心臓と絡繰",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_心臓と絡繰_花譜.txt"
+    }
+  ]
+}
